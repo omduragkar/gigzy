@@ -1,9 +1,9 @@
 {
-  "name": "gigzy",
+  "name": "gigzyFE",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/gigzy",
+  "sourceRoot": "apps/gigzyFE",
   "projectType": "application",
   "tags": [],
-  "// targets": "to see all targets run: nx show project gigzy --web",
+  "// targets": "to see all targets run: nx show project gigzyFE --web",
   "targets": {}
 }
